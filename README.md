@@ -1,4 +1,4 @@
-# spring-dependency-injection
+# spring-autowiring
 
 ## Задание:
 
